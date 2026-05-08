@@ -1,4 +1,4 @@
-# Olá, sou o Marcelo Martins 👋
+# Olá, sou o Marcelo 👋
 
 **CTO @ [Ecost.ai](https://ecost.ai)** · Lisboa, Portugal 🇵🇹
 
@@ -41,7 +41,7 @@ Gosto de resolver problemas complexos com soluções pragmáticas, automatizar t
 <details>
 <summary>🇬🇧 English version</summary>
 
-## Hi, I'm Marcelo Martins 👋
+## Hi, I'm Marcelo 👋
 
 **CTO @ [Ecost.ai](https://ecost.ai)** · Lisbon, Portugal
 
