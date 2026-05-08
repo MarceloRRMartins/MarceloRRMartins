@@ -10,21 +10,26 @@ Gosto de resolver problemas complexos com soluções pragmáticas, automatizar t
 
 ### 🛠️ Stack & Ferramentas
 
-```
-Linguagens     Python · TypeScript · SQL
-Frontend       React · Astro · Next.js
-Backend        FastAPI · Node.js
-Data & AI      LLMs · AI Agents · Data Pipelines
-Infra          Docker · Git · CI/CD
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,astro,fastapi,nodejs,docker,git,postgres,linux&perline=6" />
+  </a>
+</p>
 
 ### 🔭 Atualmente
 
 - A construir e escalar o produto na **Ecost.ai**
 - A explorar aplicações práticas de **LLMs** e **AI Agents**
-- A contribuir para projetos open-source em **energia** e **home automation**
 
-###  Contacto
+### 🔥 Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MarceloRRMartins&theme=github-dark-blue&hide_border=true&locale=pt" />
+  </a>
+</p>
+
+### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelomartins0/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloRRMartins)
@@ -44,19 +49,16 @@ I enjoy solving complex problems with pragmatic solutions, automating everything
 
 ### 🛠️ Stack & Tools
 
-```
-Languages      Python · TypeScript · SQL
-Frontend       React · Astro · Next.js
-Backend        FastAPI · Node.js
-Data & AI      LLMs · AI Agents · Data Pipelines
-Infra          Docker · Git · CI/CD
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,astro,fastapi,nodejs,docker,git,postgres,linux&perline=6" />
+  </a>
+</p>
 
 ### 🔭 Currently
 
 - Building and scaling the product at **Ecost.ai**
 - Exploring practical applications of **LLMs** and **AI Agents**
-- Contributing to open-source projects in **energy** and **home automation**
 
 ### 📫 Contact
 
