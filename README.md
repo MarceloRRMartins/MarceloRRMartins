@@ -1,27 +1,76 @@
-# Marcelo Martins
+# Olá, sou o Marcelo Martins 👋
 
-**CTO @ [Ecost.ai](https://ecost.ai)** · Lisboa, Portugal
+**CTO @ [Ecost.ai](https://ecost.ai)** · Lisboa, Portugal 🇵🇹
 
 ---
 
-Engenheiro versátil com experiência end-to-end — da arquitetura de sistemas e infraestrutura à interface do utilizador. Actualmente a liderar a tecnologia na Ecost.ai, onde construo produtos que cruzam energia, sustentabilidade e inteligência artificial.
+Engenheiro versátil com experiência end-to-end — da arquitetura de sistemas e infraestrutura à interface do utilizador. Atualmente a liderar a tecnologia na Ecost.ai, onde construo produtos que cruzam energia, sustentabilidade e inteligência artificial.
 
-### Stack & Ferramentas
+Gosto de resolver problemas complexos com soluções pragmáticas, automatizar tudo o que puder e construir equipas que entregam com qualidade.
+
+### 🛠️ Stack & Ferramentas
 
 ```
-Languages    Python · TypeScript · SQL
-Frontend     React · Astro · Next.js
-Backend      FastAPI · Node.js
-Data & AI    LLMs · Data Pipelines
-Infra        Docker · Git · CI/CD
+Linguagens     Python · TypeScript · SQL
+Frontend       React · Astro · Next.js
+Backend        FastAPI · Node.js
+Data & AI      LLMs · AI Agents · Data Pipelines
+Infra          Docker · Git · CI/CD
 ```
 
-### Atualmente
+### 🔭 Atualmente
 
-- Construir e escalar o produto na **Ecost.ai**
-- Explorar aplicações práticas de **LLMs** e **AI agents**
-- Contribuir para projectos open-source em **energia** e **home automation**
+- A construir e escalar o produto na **Ecost.ai**
+- A explorar aplicações práticas de **LLMs** e **AI Agents**
+- A contribuir para projetos open-source em **energia** e **home automation**
 
-### Contacto
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelomartins0/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarceloRRMartins&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloRRMartins&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelomartins0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloRRMartins)
+
+---
+
+<details>
+<summary>🇬🇧 English version</summary>
+
+## Hi, I'm Marcelo Martins 👋
+
+**CTO @ [Ecost.ai](https://ecost.ai)** · Lisbon, Portugal
+
+Versatile engineer with end-to-end experience — from systems architecture and infrastructure to user interfaces. Currently leading technology at Ecost.ai, where I build products at the intersection of energy, sustainability, and artificial intelligence.
+
+I enjoy solving complex problems with pragmatic solutions, automating everything I can, and building teams that deliver with quality.
+
+### 🛠️ Stack & Tools
+
+```
+Languages      Python · TypeScript · SQL
+Frontend       React · Astro · Next.js
+Backend        FastAPI · Node.js
+Data & AI      LLMs · AI Agents · Data Pipelines
+Infra          Docker · Git · CI/CD
+```
+
+### 🔭 Currently
+
+- Building and scaling the product at **Ecost.ai**
+- Exploring practical applications of **LLMs** and **AI Agents**
+- Contributing to open-source projects in **energy** and **home automation**
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelomartins0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloRRMartins)
+
+</details>
