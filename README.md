@@ -21,6 +21,11 @@ Gosto de resolver problemas complexos com soluções pragmáticas, automatizar t
 - A construir e escalar o produto na **Ecost.ai**
 - A explorar aplicações práticas de **LLMs** e **AI Agents**
 
+### 📊 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloRRMartins&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 ### 📫 Contacto
 
