@@ -24,7 +24,11 @@ Gosto de resolver problemas complexos com soluções pragmáticas, automatizar t
 ### 📊 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarceloRRMartins/MarceloRRMartins/output/profile-summary-card-output/github_dark/profile-green-animate.svg" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarceloRRMartins/MarceloRRMartins/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarceloRRMartins/MarceloRRMartins/output/github-contribution-grid-snake.svg" />
+    <img alt="contributions" src="https://raw.githubusercontent.com/MarceloRRMartins/MarceloRRMartins/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ### 📫 Contacto
